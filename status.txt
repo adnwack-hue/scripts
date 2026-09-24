@@ -1,2 +1,1 @@
-DISABLED
-Public version suddenly broke, fixing
+ACTIVE
